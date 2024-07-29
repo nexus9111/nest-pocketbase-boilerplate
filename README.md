@@ -3,6 +3,7 @@
 <div align="center">
   <img src="assets/logo.jpg" width="300" height="300">
 </div>
+
 ## Features
 
 - Docker
@@ -34,3 +35,16 @@ $ docker-compose -f docker-compose.yml -f docker-compose.nginx.yml up -d
 - You can access the application at `http://localhost:3000`
 - You can access the swagger at `http://localhost:3000/api` (only for dev)
 - You can access to pocketbase at `http://localhost:8090`
+
+### Locally
+
+You need a pocketbase instance running
+
+```bash
+$ yarn install
+$ yarn run start:dev
+```
+
+## Author
+
+- Joss C - https://github.com/nexus9111
