@@ -4977,10 +4977,10 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha512-/aCDEGatGvZ2BIk+HmLf4ifCJFwvKFNb9/JeZPMulfgFracn9QFcAf5GO8B/mweUjSoblS5In0cWhqpfs/5PQA==
 
-typescript-pocketbase-orm@^0.0.13:
-  version "0.0.13"
-  resolved "https://registry.yarnpkg.com/typescript-pocketbase-orm/-/typescript-pocketbase-orm-0.0.13.tgz#d83f8275501e7f98d7438bd3dfbb9dc25d16997f"
-  integrity sha512-0jqv7hJTh+39z3x1fBGi0cdqLbS4LAdUI4T6/uy5PkON1yuoGNMYiv/HOEHVFNuW3Ga1wVdSF7vu4QV/fhzrxg==
+typescript-pocketbase-orm@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/typescript-pocketbase-orm/-/typescript-pocketbase-orm-0.1.1.tgz#33e9561cc9e46339c0e3dbfdda6743e6e08bd21a"
+  integrity sha512-ySVl1JURugU1Q7ng75Htt/kBSnAirabpGNRpsJNPYepjvcuvzVamBJjxyl6++ILJm2neFqTTt8IHraGKA1MF1Q==
   dependencies:
     pocketbase "^0.21.3"
 

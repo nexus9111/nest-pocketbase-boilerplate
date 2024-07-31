@@ -23,6 +23,7 @@ export interface User {
 }
 
 const anonymiseEmail = (email: string) => {
+  if (!email) return '';
   const beforeAt = email.split('@')[0];
   const afterAt = email.split('@')[1];
   const firstChar = beforeAt.charAt(0);
